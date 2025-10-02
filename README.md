@@ -477,7 +477,7 @@ git push origin feature/your-feature
 
 *构建于 ❤️ 和 ☕ 之上*
 
-[![Star](https://img.shields.io/github/stars/your-username/HedgeSync.svg?style=social)](https://github.com/your-username/HedgeSync)
-[![Fork](https://img.shields.io/github/forks/your-username/HedgeSync.svg?style=social)](https://github.com/your-username/HedgeSync/fork)
+[![Star](https://img.shields.io/github/stars/cn-vhql/HedgeSync.svg?style=social)](https://github.com/cn-vhql/HedgeSync)
+[![Fork](https://img.shields.io/github/forks/cn-vhql/HedgeSync.svg?style=social)](https://github.com/cn-vhql/HedgeSync/fork)
 
 </div>
