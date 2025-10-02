@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+pyecharts
+statsmodels
+akshare
+plotly
+scipy
