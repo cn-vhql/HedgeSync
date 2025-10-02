@@ -180,6 +180,13 @@ docker run -p 8501:8501 hedge-sync
 ---
 
 ## 📖 使用指南
+![alt text](picture/image.png)
+![alt text](picture/image-1.png)
+![alt text](picture/image-2.png)
+![alt text](picture/image-3.png)
+![alt text](picture/image-4.png)
+![alt text](picture/image-5.png)
+![alt text](picture/image-6.png)
 
 ### 数据准备
 
@@ -445,9 +452,10 @@ git push origin feature/your-feature
 
 ## 📞 联系方式
 
-- **项目主页**：https://github.com/your-username/HedgeSync
-- **问题反馈**：https://github.com/your-username/HedgeSync/issues
-- **邮箱**：your-email@example.com
+- **项目主页**：https://github.com/cn-vhql/HedgeSync
+- **问题反馈**：https://github.com/cn-vhql/HedgeSync/issues
+- **邮箱**：yl_zhangqiang@foxmail.com
+- **微信**：qianglegend
 
 ---
 
